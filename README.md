@@ -36,11 +36,11 @@ While this guide is created with [Arch Linux](https://archlinux.org/) in mind, i
 
 1. Clone the repository to your home folder:
     ```
-    git clone https://github.com/stiantha/hypr.git ~/simple-hyprland
+    git clone https://github.com/stiantha/hypr.git ~/hypr
     ```
 2. Navigate to the installer directory:
     ```
-    cd ~/simple-hyprland/scripts/installer
+    cd ~/hypr/scripts/installer
     ```
 3. Run the installation script with sudo:
     ```
